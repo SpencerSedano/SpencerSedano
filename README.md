@@ -34,6 +34,7 @@ Hi, I'm Spencer — a Computer Science student in Taiwan.
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/spencersedano/)
+- [![X](https://img.shields.io/badge/-_-%23000000?style=flat&logo=x&logoColor=white)](https://x.com/spencersedanov)
 - 🧠 [Projects Site, coming soon - needs to be updated](https://spencersedano.github.io/spencer-portfolio)
 
 ---

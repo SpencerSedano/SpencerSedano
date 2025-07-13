@@ -10,7 +10,7 @@ Hi, I'm Spencer — a Computer Science student in Taiwan.
 ## 🛠️ Skills & Technologies
 
 **Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -29,24 +29,16 @@ Hi, I'm Spencer — a Computer Science student in Taiwan.
 
 - 🧠 **Hoverzi** – A Chrome Extension. Hover to translate Chinese to English - more features coming soon.
 - 📸 **Memfie** – Built with React Native and C#. This app reminds you to take a daily photo to create a timelapse video.   
-- 🖥️ **Widgit** – "Built with React, React Native, C#, and C. The system uses a Waveshare ePaper display connected to a C-based embedded device (ESP32). I created a React dashboard with a C# backend where you can drag and drop widgets — the layout is then reflected in real time on the ePaper screen.
-
-
-👉 Check pinned repositories below or browse all my [projects](https://github.com/SpencerSedano?tab=repositories)
-
-## 📊 GitHub Stats
-
-![Spencer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpencerSedano&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerSedano&layout=compact&theme=tokyonight)
+- 🖥️ **Widgit** – Built with React, React Native, C#, and C. The system uses a Waveshare ePaper display connected to a C-based embedded device (ESP32). I created a React dashboard with a C# backend where you can drag and drop widgets — the layout is then reflected in real time on the ePaper screen.
 
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/spencersedano/)
-- 🧠 [Projects Site (Coming Soon - needs to be updated)]([https://spencersedano.dev](https://spencersedano.github.io/spencer-portfolio)
+- 🧠 [Projects Site, coming soon - needs to be updated](https://spencersedano.github.io/spencer-portfolio)
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my work and reach out if you'd like to collaborate 🚀
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate 🚀
 
 
 <!--

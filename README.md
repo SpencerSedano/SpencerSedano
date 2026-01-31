@@ -4,8 +4,8 @@ Hi, I'm Spencer — a Computer Science student in Taiwan.
 
 ## 🚀 About Me
 
-- 🔭 Currently learning: Embedded systems (STM32, ESP32), AIoT, ASP.NET Core, and React. 
-- 📚 Preparing for a master's in **Embedded Systems**
+- 🔭 Currently learning: Embedded systems (STM32, nRF). 
+- 📚 Preparing for a master's degree
 
 ## 🛠️ Skills & Technologies
 
